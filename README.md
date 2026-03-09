@@ -25,6 +25,7 @@
 - [📚 Documentation](#-documentation)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📜 License](#-license)
+- [📖 Analysis Results](docs/analysis_results.md)  <!-- Added navigation to detailed empirical analysis -->
 
 ---
 
@@ -40,16 +41,16 @@ A comprehensive implementation of **Selection Algorithms** (Median of Medians, R
 
 ```bash
 # Clone & setup
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 # Run demo
-python main.py demo
+python3 main.py demo
 
 # Run full analysis
-python main.py all
+python3 main.py all
 
 # Run tests
-python main.py tests
+python3 main.py tests
 ```
 
 ---
