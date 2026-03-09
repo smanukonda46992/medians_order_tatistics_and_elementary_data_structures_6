@@ -56,11 +56,12 @@ This document presents the empirical results and analysis for the selection algo
 
 ## 📈 Plots
 
-### Data Structure Operations
-![Data Structure Operations](../results/plots/ds_operations.png)
-
-### Data Structure Search
-![Data Structure Search](../results/plots/ds_search.png)
+<table>
+<tr>
+<td align="center"><b>Data Structure Operations</b><br><img src="../results/plots/ds_operations.png" width="400"></td>
+<td align="center"><b>Data Structure Search</b><br><img src="../results/plots/ds_search.png" width="400"></td>
+</tr>
+</table>
 
 ---
 

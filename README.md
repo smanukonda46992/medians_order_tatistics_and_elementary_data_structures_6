@@ -239,8 +239,8 @@ ll.traverse()       # O(n) -> prints all elements
 
 <table>
 <tr>
-<td><b>Insert Operations</b><br><img src="results/plots/ds_insert.png" width="350"></td>
-<td><b>Delete Operations</b><br><img src="results/plots/ds_delete.png" width="350"></td>
+<td align="center"><b>Data Structure Operations</b><br><img src="results/plots/ds_operations.png" width="400"></td>
+<td align="center"><b>Data Structure Search</b><br><img src="results/plots/ds_search.png" width="400"></td>
 </tr>
 </table>
 
