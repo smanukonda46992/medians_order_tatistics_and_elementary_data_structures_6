@@ -222,27 +222,7 @@ ll.traverse()       # O(n) -> prints all elements
 
 ## 📈 Performance Results
 
-### Selection Algorithm Comparison
-
-<table>
-<tr>
-<td><b>Random Arrays</b><br><img src="results/plots/selection_random.png" width="350"></td>
-<td><b>Sorted Arrays</b><br><img src="results/plots/selection_sorted.png" width="350"></td>
-</tr>
-<tr>
-<td><b>Reverse-Sorted Arrays</b><br><img src="results/plots/selection_reverse.png" width="350"></td>
-<td><b>Arrays with Duplicates</b><br><img src="results/plots/selection_duplicates.png" width="350"></td>
-</tr>
-</table>
-
-### Data Structure Operations
-
-<table>
-<tr>
-<td align="center"><b>Data Structure Operations</b><br><img src="results/plots/ds_operations.png" width="400"></td>
-<td align="center"><b>Data Structure Search</b><br><img src="results/plots/ds_search.png" width="400"></td>
-</tr>
-</table>
+Performance plots and detailed empirical analysis are available in the [Analysis Results](docs/analysis_results.md).
 
 ---
 

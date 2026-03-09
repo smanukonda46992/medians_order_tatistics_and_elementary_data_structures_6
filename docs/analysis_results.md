@@ -56,12 +56,12 @@ This document presents the empirical results and analysis for the selection algo
 
 ## 📈 Plots
 
-<table>
-<tr>
-<td align="center"><b>Data Structure Operations</b><br><img src="../results/plots/ds_operations.png" width="400"></td>
-<td align="center"><b>Data Structure Search</b><br><img src="../results/plots/ds_search.png" width="400"></td>
-</tr>
-</table>
+Performance plots for data structure operations and search are available below. For best viewing on GitHub, ensure you are viewing this file in the repository's web interface.
+
+- **Data Structure Operations:**
+  ![Data Structure Operations](../results/plots/ds_operations.png)
+- **Data Structure Search:**
+  ![Data Structure Search](../results/plots/ds_search.png)
 
 ---
 
